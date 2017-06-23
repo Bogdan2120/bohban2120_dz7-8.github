@@ -1211,6 +1211,7 @@ display: inline;
 	/*-----testimonials--------*/
 	.testimonials {
 		width: 320px;
+		margin: 0 auto;
 		float: none;
 	}
 	.testimonial {
@@ -1249,8 +1250,7 @@ display: inline;
 	
 	.blog {
 		width: 279px;
-		margin-left: 20px;
-		margin-top: 33px;
+		margin: 33px auto 0;
 		float: none;
 	}
 	.blog__article {
@@ -1259,7 +1259,7 @@ display: inline;
 	.blog-artikle__titel {
 		display: inline-block;
 		width: 157px;
-		height: 18px;
+		height: 22px;
 		overflow: hidden;
 	}
 	.blog-artikle__text {
